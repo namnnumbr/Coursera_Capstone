@@ -38,7 +38,9 @@ An algorithm called k-nearest-neighbors is designed to find some number (k) of t
 
 ### Part IV: Results  
 
-When choosing the 10 most similar zip codes to my current one, the algorithm performs as expected.  I am familiar with the local area, and all of the areas pinpointed on my map demonstrate a similar distribution of restaurants, shops, and services.  In fact, one of the major determining factors seems to be shopping centers - there are two within my current zip code detection radius, each of the similar zip codes also has a shopping center or shopping strip.
+When choosing the 10 most similar zip codes to my current one, the algorithm performs as expected.  I am familiar with the local area, and all of the areas pinpointed on my map demonstrate a similar distribution of restaurants, shops, and services.  In fact, one of the major determining factors seems to be shopping centers - there are two within my current zip code detection radius, each of the similar zip codes also has a shopping center or shopping strip.  
+
+[Nearest Neighbors](Destinations.png "Nearest Neighbors")]
 
 ### Part V: Discussion  
 
